@@ -1,0 +1,11 @@
+.titulo {
+  color: #43c;
+}
+
+.preco {
+  font-weight: bold;
+}
+
+.comprar {
+  transform: translateY(-36px) translateX(95px);
+}
